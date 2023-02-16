@@ -1,8 +1,4 @@
 [![MasterHead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) 
-<h1 align="center">Hi ðŸ‘‹, I'm Ankush Mukherjee</h1> <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-<p align="left"> <a href="https://twitter.com/ankush4" target="blank"><img src="https://img.shields.io/twitter/follow/ankush4?logo=twitter&style=for-the-badge" alt="ankush4" /></a> </p> - ðŸŒ± Iâ€™m currently learning **Android Development** - ðŸ’¬ Ask me about **mern, android** - ðŸ“« How to reach me **Ankushmukherjee126@gmail.com** - âš¡ Fun fact **I can trade and code at same time** <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/ankush4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankush4" height="30" width="40" /></a> <a href="https://instagram.com/ankuxh4l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankuxh4l" height="30" width="40" /></a> </p>
-
 
 <h1 align="center">Hi 👋, I'm Ankush Mukherjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
